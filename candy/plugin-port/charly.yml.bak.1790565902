@@ -1,5 +1,7 @@
+version: 2026.232.0520
 plugin-port:
     candy:
+        version: 2026.176.1500
         description: |-
             The `port` check verb relocated into a candy: the in-container listening
             probe (ss/netstat) or a host-side TCP reachability dial. A HOST-COUPLED
